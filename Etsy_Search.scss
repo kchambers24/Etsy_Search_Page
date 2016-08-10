@@ -1,0 +1,124 @@
+$main-color: lightgrey;
+
+
+.navBar {
+  width: 500px; }
+
+li {
+  list-style: none; }
+
+p {
+  margin: 0; }
+
+.etsy {
+  float: left;
+  padding-right: 10px;
+  font-size: 42px;
+  color: darkorange;
+  position: relative;
+  bottom: 10px;
+  right: 10px; }
+
+.navBarRight {
+  padding-left: 10px;
+  padding-right: 10px;
+  border-left: 1px solid lightgrey; }
+
+.categories {
+  display: flex; }
+
+.accessories {
+  border-top: 1px solid lightgrey; }
+
+.catBar {
+  padding-right: 15px;
+  color: grey; }
+
+.rightSignIn {
+  display: flex;
+  float: right;
+  position: relative;
+  bottom: 30px; }
+
+#etsy-terms {
+  font-size: 15px; }
+
+button {
+  font-size: 15px;
+  background-color: #03BCDF;
+  color: white; }
+
+.cartRight {
+  border-left: 1px solid lightgrey; }
+
+.fa-shopping-cart {
+  color: #606060;
+  font-size: 22px; }
+
+.fa-user {
+  color: grey;
+  font-size: 22px;
+  position: relative;
+  left: 2px; }
+
+.fa-heart {
+  color: #606060;
+  font-size: 22px;
+  position: relative;
+  left: 16px; }
+
+.fa-home {
+  color: #606060;
+  font-size: 22px;
+  position: relative;
+  left: 6px; }
+
+.navSellEtsy {
+  position: relative;
+  top: 12px;
+  right: 8px; }
+
+p.navHomeText {
+  color: grey;
+  position: relative;
+  right: 2px; }
+
+p.navFavText {
+  color: grey; }
+
+p.navYouText {
+  color: grey;
+  position: relative;
+  right: 2px; }
+
+p.navCartText {
+  color: grey; }
+
+.sideBar {
+  background-color: #FAF0E6;
+  border-top: 1px solid lightgrey; }
+
+.allCat {
+  border: 1px solid lightgrey;
+  background-color: white;
+  padding-top: 10px;
+  padding-left: 4px;
+  width: 230px;
+  position: relative;
+  left: 30px; }
+
+.results {
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-top: 20px; }
+
+.rightBar {
+  position: relative;
+  left: 300px;
+  bottom: 450px; }
+
+ul.allCatList > li {
+  padding: 4px; }
+
+a {
+  color: #6388C3; }
